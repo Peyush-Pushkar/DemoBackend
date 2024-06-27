@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Desktop\\DemoProjects\\DemoProject01\\DemoProject01\\DemoProject01.csproj": {}
+    "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Dokumente\\27june2024\\Backend\\DemoProject01\\DemoProject01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Desktop\\DemoProjects\\DemoProject01\\DemoProject01\\DemoProject01.csproj": {
+    "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Dokumente\\27june2024\\Backend\\DemoProject01\\DemoProject01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Desktop\\DemoProjects\\DemoProject01\\DemoProject01\\DemoProject01.csproj",
+        "projectUniqueName": "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Dokumente\\27june2024\\Backend\\DemoProject01\\DemoProject01.csproj",
         "projectName": "DemoProject01",
-        "projectPath": "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Desktop\\DemoProjects\\DemoProject01\\DemoProject01\\DemoProject01.csproj",
+        "projectPath": "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Dokumente\\27june2024\\Backend\\DemoProject01\\DemoProject01.csproj",
         "packagesPath": "C:\\Users\\pushkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Desktop\\DemoProjects\\DemoProject01\\DemoProject01\\obj\\",
+        "outputPath": "C:\\Users\\pushkar\\OneDrive - Schwarz IT\\Dokumente\\27june2024\\Backend\\DemoProject01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pushkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.6, )"
